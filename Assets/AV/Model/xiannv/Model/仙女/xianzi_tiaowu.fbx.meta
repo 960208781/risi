@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: b25cecc59f2185245b45a5035aef669e
+timeCreated: 1469603466
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2321601
+    100002: bangding
+    100004: Bone01
+    100006: Bone02
+    100008: Bone04
+    100010: Bone06
+    100012: Bone08
+    100014: Bone10
+    100016: Bone12
+    100018: cluster1Handle
+    100020: cluster2Handle
+    100022: cluster3Handle
+    100024: cluster4Handle
+    100026: control
+    100028: cu
+    100030: curve1
+    100032: curve3
+    100034: curve4
+    100036: curve5
+    100038: curve6
+    100040: curve7
+    100042: ding
+    100044: faji
+    100046: fu
+    100048: group1
+    100050: group2
+    100052: huan
+    100054: huan1
+    100056: huan2
+    100058: IK
+    100060: ikHandle1
+    100062: ikHandle2
+    100064: ikHandle5
+    100066: ikHandle6
+    100068: ikHandle7
+    100070: ikHandle8
+    100072: jing
+    100074: kongzhiqi
+    100076: LeftElbow
+    100078: LeftFinger
+    100080: LeftFinger 1
+    100082: LeftFinger 10
+    100084: LeftFinger 11
+    100086: LeftFinger 12
+    100088: LeftFinger 13
+    100090: LeftFinger 14
+    100092: LeftFinger 15
+    100094: LeftFinger 2
+    100096: LeftFinger 3
+    100098: LeftFinger 4
+    100100: LeftFinger 5
+    100102: LeftFinger 6
+    100104: LeftFinger 7
+    100106: LeftFinger 8
+    100108: LeftFinger 9
+    100110: LeftFinger5
+    100112: LeftFinger6
+    100114: LeftFinger7
+    100116: LeftFinger8
+    100118: LeftFinger9
+    100120: LeftFoot
+    100122: LeftHand
+    100124: LeftHip
+    100126: LeftKnee
+    100128: LeftShoulder
+    100130: LeftToe
+    100132: LeftToe 1
+    100134: LeftToe1
+    100136: nurbsCircle1
+    100138: nurbsCircle10
+    100140: nurbsCircle11
+    100142: nurbsCircle2
+    100144: nurbsCircle3
+    100146: nurbsCircle4
+    100148: nurbsCircle7
+    100150: nurbsCircle8
+    100152: pCube1
+    100154: pCube2
+    100156: pCube3
+    100158: pCube4
+    100160: pCube5
+    100162: pCylinder1
+    100164: pCylinder10
+    100166: pCylinder10 1
+    100168: pCylinder10 2
+    100170: pCylinder11
+    100172: pCylinder11 1
+    100174: pCylinder11 2
+    100176: pCylinder2
+    100178: pCylinder2 1
+    100180: pCylinder2 2
+    100182: pCylinder3
+    100184: pCylinder3 1
+    100186: pCylinder3 2
+    100188: pCylinder4
+    100190: pCylinder4 1
+    100192: pCylinder4 2
+    100194: pCylinder5
+    100196: pCylinder5 1
+    100198: pCylinder5 2
+    100200: pCylinder6
+    100202: pCylinder6 1
+    100204: pCylinder6 2
+    100206: pCylinder7
+    100208: pCylinder7 1
+    100210: pCylinder7 2
+    100212: pCylinder8
+    100214: pCylinder8 1
+    100216: pCylinder8 2
+    100218: pCylinder9
+    100220: pCylinder9 1
+    100222: pCylinder9 2
+    100224: pHelix1
+    100226: polySurface47
+    100228: polySurface48
+    100230: polySurface48 1
+    100232: polySurface49
+    100234: polySurface49 1
+    100236: polySurface50
+    100238: polySurface50 1
+    100240: polySurface51
+    100242: polySurface51 1
+    100244: polySurface52
+    100246: polySurface52 1
+    100248: polySurface53
+    100250: polySurface53 1
+    100252: polySurface54
+    100254: polySurface54 1
+    100256: polySurface55
+    100258: polySurface55 1
+    100260: polySurface56
+    100262: polySurface56 1
+    100264: polySurface57
+    100266: polySurface57 1
+    100268: polySurface58
+    100270: polySurface58 1
+    100272: polySurface59
+    100274: polySurface59 1
+    100276: polySurface60
+    100278: polySurface60 1
+    100280: polySurface61
+    100282: polySurface62
+    100284: polySurface62 1
+    100286: polySurface63
+    100288: polySurface63 1
+    100290: polySurface64
+    100292: polySurface65
+    100294: polySurface65 1
+    100296: polySurface66
+    100298: polySurface66 1
+    100300: polySurface67
+    100302: polySurface67 1
+    100304: polySurface68
+    100306: polySurface68 1
+    100308: polySurface69
+    100310: polySurface69 1
+    100312: polySurface70
+    100314: polySurface70 1
+    100316: polySurface71
+    100318: polySurface71 1
+    100320: polySurface72
+    100322: polySurface73
+    100324: polySurface74
+    100326: polySurface75
+    100328: polySurface76
+    100330: pPipe1
+    100332: pPipe1 1
+    100334: pPipe1 2
+    100336: quanzhang
+    100338: qunzi
+    100340: RightElbow
+    100342: RightFinger
+    100344: RightFinger 1
+    100346: RightFinger 10
+    100348: RightFinger 11
+    100350: RightFinger 12
+    100352: RightFinger 13
+    100354: RightFinger 14
+    100356: RightFinger 15
+    100358: RightFinger 2
+    100360: RightFinger 3
+    100362: RightFinger 4
+    100364: RightFinger 5
+    100366: RightFinger 6
+    100368: RightFinger 7
+    100370: RightFinger 8
+    100372: RightFinger 9
+    100374: RightFinger5
+    100376: RightFinger6
+    100378: RightFinger7
+    100380: RightFinger8
+    100382: RightFinger9
+    100384: RightFoot
+    100386: RightHand
+    100388: RightHip
+    100390: RightKnee
+    100392: RightShoulder
+    100394: RightToe
+    100396: RightToe 1
+    100398: RightToe1
+    100400: shangshen
+    100402: tou
+    100404: toufa
+    100406: tousheng
+    100408: tui_l
+    100410: tui_r
+    100412: xianzi
+    100414: //RootNode
+    100416: xiezi_l
+    100418: xiezi_r
+    100420: xiong
+    100422: yan_l
+    100424: yan_l 1
+    100426: yao
+    100428: zong
+    400000: 2321601
+    400002: bangding
+    400004: Bone01
+    400006: Bone02
+    400008: Bone04
+    400010: Bone06
+    400012: Bone08
+    400014: Bone10
+    400016: Bone12
+    400018: cluster1Handle
+    400020: cluster2Handle
+    400022: cluster3Handle
+    400024: cluster4Handle
+    400026: control
+    400028: cu
+    400030: curve1
+    400032: curve3
+    400034: curve4
+    400036: curve5
+    400038: curve6
+    400040: curve7
+    400042: ding
+    400044: faji
+    400046: fu
+    400048: group1
+    400050: group2
+    400052: huan
+    400054: huan1
+    400056: huan2
+    400058: IK
+    400060: ikHandle1
+    400062: ikHandle2
+    400064: ikHandle5
+    400066: ikHandle6
+    400068: ikHandle7
+    400070: ikHandle8
+    400072: jing
+    400074: kongzhiqi
+    400076: LeftElbow
+    400078: LeftFinger
+    400080: LeftFinger 1
+    400082: LeftFinger 10
+    400084: LeftFinger 11
+    400086: LeftFinger 12
+    400088: LeftFinger 13
+    400090: LeftFinger 14
+    400092: LeftFinger 15
+    400094: LeftFinger 2
+    400096: LeftFinger 3
+    400098: LeftFinger 4
+    400100: LeftFinger 5
+    400102: LeftFinger 6
+    400104: LeftFinger 7
+    400106: LeftFinger 8
+    400108: LeftFinger 9
+    400110: LeftFinger5
+    400112: LeftFinger6
+    400114: LeftFinger7
+    400116: LeftFinger8
+    400118: LeftFinger9
+    400120: LeftFoot
+    400122: LeftHand
+    400124: LeftHip
+    400126: LeftKnee
+    400128: LeftShoulder
+    400130: LeftToe
+    400132: LeftToe 1
+    400134: LeftToe1
+    400136: nurbsCircle1
+    400138: nurbsCircle10
+    400140: nurbsCircle11
+    400142: nurbsCircle2
+    400144: nurbsCircle3
+    400146: nurbsCircle4
+    400148: nurbsCircle7
+    400150: nurbsCircle8
+    400152: pCube1
+    400154: pCube2
+    400156: pCube3
+    400158: pCube4
+    400160: pCube5
+    400162: pCylinder1
+    400164: pCylinder10
+    400166: pCylinder10 1
+    400168: pCylinder10 2
+    400170: pCylinder11
+    400172: pCylinder11 1
+    400174: pCylinder11 2
+    400176: pCylinder2
+    400178: pCylinder2 1
+    400180: pCylinder2 2
+    400182: pCylinder3
+    400184: pCylinder3 1
+    400186: pCylinder3 2
+    400188: pCylinder4
+    400190: pCylinder4 1
+    400192: pCylinder4 2
+    400194: pCylinder5
+    400196: pCylinder5 1
+    400198: pCylinder5 2
+    400200: pCylinder6
+    400202: pCylinder6 1
+    400204: pCylinder6 2
+    400206: pCylinder7
+    400208: pCylinder7 1
+    400210: pCylinder7 2
+    400212: pCylinder8
+    400214: pCylinder8 1
+    400216: pCylinder8 2
+    400218: pCylinder9
+    400220: pCylinder9 1
+    400222: pCylinder9 2
+    400224: pHelix1
+    400226: polySurface47
+    400228: polySurface48
+    400230: polySurface48 1
+    400232: polySurface49
+    400234: polySurface49 1
+    400236: polySurface50
+    400238: polySurface50 1
+    400240: polySurface51
+    400242: polySurface51 1
+    400244: polySurface52
+    400246: polySurface52 1
+    400248: polySurface53
+    400250: polySurface53 1
+    400252: polySurface54
+    400254: polySurface54 1
+    400256: polySurface55
+    400258: polySurface55 1
+    400260: polySurface56
+    400262: polySurface56 1
+    400264: polySurface57
+    400266: polySurface57 1
+    400268: polySurface58
+    400270: polySurface58 1
+    400272: polySurface59
+    400274: polySurface59 1
+    400276: polySurface60
+    400278: polySurface60 1
+    400280: polySurface61
+    400282: polySurface62
+    400284: polySurface62 1
+    400286: polySurface63
+    400288: polySurface63 1
+    400290: polySurface64
+    400292: polySurface65
+    400294: polySurface65 1
+    400296: polySurface66
+    400298: polySurface66 1
+    400300: polySurface67
+    400302: polySurface67 1
+    400304: polySurface68
+    400306: polySurface68 1
+    400308: polySurface69
+    400310: polySurface69 1
+    400312: polySurface70
+    400314: polySurface70 1
+    400316: polySurface71
+    400318: polySurface71 1
+    400320: polySurface72
+    400322: polySurface73
+    400324: polySurface74
+    400326: polySurface75
+    400328: polySurface76
+    400330: pPipe1
+    400332: pPipe1 1
+    400334: pPipe1 2
+    400336: quanzhang
+    400338: qunzi
+    400340: RightElbow
+    400342: RightFinger
+    400344: RightFinger 1
+    400346: RightFinger 10
+    400348: RightFinger 11
+    400350: RightFinger 12
+    400352: RightFinger 13
+    400354: RightFinger 14
+    400356: RightFinger 15
+    400358: RightFinger 2
+    400360: RightFinger 3
+    400362: RightFinger 4
+    400364: RightFinger 5
+    400366: RightFinger 6
+    400368: RightFinger 7
+    400370: RightFinger 8
+    400372: RightFinger 9
+    400374: RightFinger5
+    400376: RightFinger6
+    400378: RightFinger7
+    400380: RightFinger8
+    400382: RightFinger9
+    400384: RightFoot
+    400386: RightHand
+    400388: RightHip
+    400390: RightKnee
+    400392: RightShoulder
+    400394: RightToe
+    400396: RightToe 1
+    400398: RightToe1
+    400400: shangshen
+    400402: tou
+    400404: toufa
+    400406: tousheng
+    400408: tui_l
+    400410: tui_r
+    400412: xianzi
+    400414: //RootNode
+    400416: xiezi_l
+    400418: xiezi_r
+    400420: xiong
+    400422: yan_l
+    400424: yan_l 1
+    400426: yao
+    400428: zong
+    2300000: pCube1
+    2300002: pCube2
+    2300004: pCube3
+    2300006: pCube4
+    2300008: pCube5
+    2300010: pCylinder1
+    2300012: pCylinder10
+    2300014: pCylinder10 1
+    2300016: pCylinder10 2
+    2300018: pCylinder11
+    2300020: pCylinder11 1
+    2300022: pCylinder11 2
+    2300024: pCylinder2
+    2300026: pCylinder2 1
+    2300028: pCylinder2 2
+    2300030: pCylinder3
+    2300032: pCylinder3 1
+    2300034: pCylinder3 2
+    2300036: pCylinder4
+    2300038: pCylinder4 1
+    2300040: pCylinder4 2
+    2300042: pCylinder5
+    2300044: pCylinder5 1
+    2300046: pCylinder5 2
+    2300048: pCylinder6
+    2300050: pCylinder6 1
+    2300052: pCylinder6 2
+    2300054: pCylinder7
+    2300056: pCylinder7 1
+    2300058: pCylinder7 2
+    2300060: pCylinder8
+    2300062: pCylinder8 1
+    2300064: pCylinder8 2
+    2300066: pCylinder9
+    2300068: pCylinder9 1
+    2300070: pCylinder9 2
+    2300072: pHelix1
+    2300074: polySurface65
+    2300076: polySurface65 1
+    2300078: polySurface73
+    2300080: polySurface75
+    2300082: polySurface76
+    2300084: pPipe1
+    2300086: pPipe1 1
+    2300088: pPipe1 2
+    3300000: pCube1
+    3300002: pCube2
+    3300004: pCube3
+    3300006: pCube4
+    3300008: pCube5
+    3300010: pCylinder1
+    3300012: pCylinder10
+    3300014: pCylinder10 1
+    3300016: pCylinder10 2
+    3300018: pCylinder11
+    3300020: pCylinder11 1
+    3300022: pCylinder11 2
+    3300024: pCylinder2
+    3300026: pCylinder2 1
+    3300028: pCylinder2 2
+    3300030: pCylinder3
+    3300032: pCylinder3 1
+    3300034: pCylinder3 2
+    3300036: pCylinder4
+    3300038: pCylinder4 1
+    3300040: pCylinder4 2
+    3300042: pCylinder5
+    3300044: pCylinder5 1
+    3300046: pCylinder5 2
+    3300048: pCylinder6
+    3300050: pCylinder6 1
+    3300052: pCylinder6 2
+    3300054: pCylinder7
+    3300056: pCylinder7 1
+    3300058: pCylinder7 2
+    3300060: pCylinder8
+    3300062: pCylinder8 1
+    3300064: pCylinder8 2
+    3300066: pCylinder9
+    3300068: pCylinder9 1
+    3300070: pCylinder9 2
+    3300072: pHelix1
+    3300074: polySurface65
+    3300076: polySurface65 1
+    3300078: polySurface73
+    3300080: polySurface75
+    3300082: polySurface76
+    3300084: pPipe1
+    3300086: pPipe1 1
+    3300088: pPipe1 2
+    4300000: tui_r
+    4300002: tui_l
+    4300004: xiezi_l
+    4300006: xiezi_r
+    4300008: faji
+    4300010: qunzi
+    4300012: tousheng
+    4300014: shangshen
+    4300016: polySurface47
+    4300018: polySurface61
+    4300020: polySurface64
+    4300022: polySurface48
+    4300024: polySurface49
+    4300026: polySurface50
+    4300028: polySurface51
+    4300030: polySurface52
+    4300032: polySurface53
+    4300034: polySurface54
+    4300036: polySurface55
+    4300038: polySurface56
+    4300040: polySurface57
+    4300042: polySurface58
+    4300044: polySurface59
+    4300046: polySurface60
+    4300048: polySurface62
+    4300050: polySurface63
+    4300052: polySurface65
+    4300054: polySurface66
+    4300056: polySurface67
+    4300058: polySurface68
+    4300060: polySurface69
+    4300062: polySurface70
+    4300064: polySurface71
+    4300066: yan_l
+    4300068: polySurface48
+    4300070: polySurface49
+    4300072: polySurface50
+    4300074: polySurface51
+    4300076: polySurface52
+    4300078: polySurface53
+    4300080: polySurface54
+    4300082: polySurface55
+    4300084: polySurface56
+    4300086: polySurface57
+    4300088: polySurface58
+    4300090: polySurface59
+    4300092: polySurface60
+    4300094: polySurface62
+    4300096: polySurface63
+    4300098: polySurface65
+    4300100: polySurface66
+    4300102: polySurface67
+    4300104: polySurface68
+    4300106: polySurface69
+    4300108: polySurface70
+    4300110: polySurface71
+    4300112: yan_l
+    4300114: pCylinder1
+    4300116: polySurface73
+    4300118: polySurface75
+    4300120: polySurface76
+    4300122: pHelix1
+    4300124: pPipe1
+    4300126: pCylinder2
+    4300128: pCylinder3
+    4300130: pCylinder4
+    4300132: pCylinder5
+    4300134: pCylinder6
+    4300136: pCylinder7
+    4300138: pCylinder8
+    4300140: pCylinder9
+    4300142: pCylinder10
+    4300144: pCylinder11
+    4300146: pPipe1
+    4300148: pCylinder2
+    4300150: pCylinder3
+    4300152: pCylinder4
+    4300154: pCylinder5
+    4300156: pCylinder6
+    4300158: pCylinder7
+    4300160: pCylinder8
+    4300162: pCylinder9
+    4300164: pCylinder10
+    4300166: pCylinder11
+    4300168: pCube1
+    4300170: pCube2
+    4300172: pCube3
+    4300174: pCube4
+    4300176: pCube5
+    4300178: pPipe1
+    4300180: pCylinder2
+    4300182: pCylinder3
+    4300184: pCylinder4
+    4300186: pCylinder5
+    4300188: pCylinder6
+    4300190: pCylinder7
+    4300192: pCylinder8
+    4300194: pCylinder9
+    4300196: pCylinder10
+    4300198: pCylinder11
+    4300200: 2321601
+    7400000: one
+    7400002: Take 001
+    7400004: Take 003
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: 2321601
+    13700002: faji
+    13700004: polySurface47
+    13700006: polySurface48
+    13700008: polySurface48 1
+    13700010: polySurface49
+    13700012: polySurface49 1
+    13700014: polySurface50
+    13700016: polySurface50 1
+    13700018: polySurface51
+    13700020: polySurface51 1
+    13700022: polySurface52
+    13700024: polySurface52 1
+    13700026: polySurface53
+    13700028: polySurface53 1
+    13700030: polySurface54
+    13700032: polySurface54 1
+    13700034: polySurface55
+    13700036: polySurface55 1
+    13700038: polySurface56
+    13700040: polySurface56 1
+    13700042: polySurface57
+    13700044: polySurface57 1
+    13700046: polySurface58
+    13700048: polySurface58 1
+    13700050: polySurface59
+    13700052: polySurface59 1
+    13700054: polySurface60
+    13700056: polySurface60 1
+    13700058: polySurface61
+    13700060: polySurface62
+    13700062: polySurface62 1
+    13700064: polySurface63
+    13700066: polySurface63 1
+    13700068: polySurface64
+    13700070: polySurface66
+    13700072: polySurface66 1
+    13700074: polySurface67
+    13700076: polySurface67 1
+    13700078: polySurface68
+    13700080: polySurface68 1
+    13700082: polySurface69
+    13700084: polySurface69 1
+    13700086: polySurface70
+    13700088: polySurface70 1
+    13700090: polySurface71
+    13700092: polySurface71 1
+    13700094: qunzi
+    13700096: shangshen
+    13700098: tousheng
+    13700100: tui_l
+    13700102: tui_r
+    13700104: xiezi_l
+    13700106: xiezi_r
+    13700108: yan_l
+    13700110: yan_l 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2321601
+        weight: 0
+      - path: xianzi
+        weight: 1
+      - path: xianzi/faji
+        weight: 1
+      - path: xianzi/qunzi
+        weight: 1
+      - path: xianzi/shangshen
+        weight: 1
+      - path: xianzi/toufa
+        weight: 1
+      - path: xianzi/toufa/group1
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface48
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface49
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface50
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface51
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface52
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface53
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface54
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface55
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface56
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface57
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface58
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface59
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface60
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface62
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface63
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface65
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface66
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface67
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface68
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface69
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface70
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface71
+        weight: 1
+      - path: xianzi/toufa/group1/yan_l
+        weight: 1
+      - path: xianzi/toufa/group2
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface48 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface49 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface50 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface51 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface52 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface53 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface54 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface55 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface56 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface57 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface58 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface59 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface60 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface62 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface63 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface65 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface66 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface67 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface68 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface69 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface70 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface71 1
+        weight: 1
+      - path: xianzi/toufa/group2/yan_l 1
+        weight: 1
+      - path: xianzi/toufa/polySurface47
+        weight: 1
+      - path: xianzi/toufa/polySurface61
+        weight: 1
+      - path: xianzi/toufa/polySurface64
+        weight: 1
+      - path: xianzi/tousheng
+        weight: 1
+      - path: xianzi/tui_l
+        weight: 1
+      - path: xianzi/tui_r
+        weight: 1
+      - path: xianzi/xiezi_l
+        weight: 1
+      - path: xianzi/xiezi_r
+        weight: 1
+      - path: zong
+        weight: 1
+      - path: zong/bangding
+        weight: 1
+      - path: zong/bangding/control
+        weight: 1
+      - path: zong/bangding/control/LeftHip
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe1
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe1/LeftToe 1
+        weight: 1
+      - path: zong/bangding/control/RightHip
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe1
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe1/RightToe
+          1
+        weight: 1
+      - path: zong/bangding/control/yao
+        weight: 1
+      - path: zong/bangding/control/yao/fu
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing/tou
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing/tou/ding
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1/LeftFinger 6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1/LeftFinger 6/LeftFinger 11
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2/LeftFinger 7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2/LeftFinger 7/LeftFinger 12
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3/LeftFinger 8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3/LeftFinger 8/LeftFinger 13
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4/LeftFinger 9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4/LeftFinger 9/LeftFinger 14
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5/LeftFinger 10
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5/LeftFinger 10/LeftFinger 15
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1/RightFinger 6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1/RightFinger 6/RightFinger 11
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2/RightFinger 7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2/RightFinger 7/RightFinger 12
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3/RightFinger 8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3/RightFinger 8/RightFinger 13
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4/RightFinger 9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4/RightFinger 9/RightFinger 14
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5/RightFinger 10
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5/RightFinger 10/RightFinger 15
+        weight: 1
+      - path: zong/bangding/cu
+        weight: 1
+      - path: zong/bangding/cu/cluster1Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster2Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster3Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster4Handle
+        weight: 1
+      - path: zong/bangding/IK
+        weight: 1
+      - path: zong/bangding/IK/ikHandle1
+        weight: 1
+      - path: zong/bangding/IK/ikHandle2
+        weight: 1
+      - path: zong/bangding/IK/ikHandle5
+        weight: 1
+      - path: zong/bangding/IK/ikHandle6
+        weight: 1
+      - path: zong/bangding/IK/ikHandle7
+        weight: 1
+      - path: zong/bangding/IK/ikHandle8
+        weight: 1
+      - path: zong/bangding/kongzhiqi
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone02
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone04
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone06
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone08
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone12
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve6
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder6
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder8
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder9
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder11
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pPipe1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder2
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder3
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder4
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder5
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder6
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder7
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder8
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder9
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder10
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder11
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pPipe1
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder2
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder3
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder4
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder5
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder6
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder7
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder8
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder9
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder10
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder11
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pPipe1
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCylinder1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pHelix1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface73
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74/polySurface75
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74/polySurface76
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/nurbsCircle7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/nurbsCircle8
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/nurbsCircle10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/nurbsCircle11
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle1/nurbsCircle3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle2/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: one
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2321601
+        weight: 0
+      - path: xianzi
+        weight: 1
+      - path: xianzi/faji
+        weight: 1
+      - path: xianzi/qunzi
+        weight: 1
+      - path: xianzi/shangshen
+        weight: 1
+      - path: xianzi/toufa
+        weight: 1
+      - path: xianzi/toufa/group1
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface48
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface49
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface50
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface51
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface52
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface53
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface54
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface55
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface56
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface57
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface58
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface59
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface60
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface62
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface63
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface65
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface66
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface67
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface68
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface69
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface70
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface71
+        weight: 1
+      - path: xianzi/toufa/group1/yan_l
+        weight: 1
+      - path: xianzi/toufa/group2
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface48 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface49 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface50 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface51 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface52 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface53 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface54 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface55 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface56 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface57 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface58 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface59 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface60 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface62 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface63 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface65 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface66 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface67 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface68 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface69 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface70 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface71 1
+        weight: 1
+      - path: xianzi/toufa/group2/yan_l 1
+        weight: 1
+      - path: xianzi/toufa/polySurface47
+        weight: 1
+      - path: xianzi/toufa/polySurface61
+        weight: 1
+      - path: xianzi/toufa/polySurface64
+        weight: 1
+      - path: xianzi/tousheng
+        weight: 1
+      - path: xianzi/tui_l
+        weight: 1
+      - path: xianzi/tui_r
+        weight: 1
+      - path: xianzi/xiezi_l
+        weight: 1
+      - path: xianzi/xiezi_r
+        weight: 1
+      - path: zong
+        weight: 1
+      - path: zong/bangding
+        weight: 1
+      - path: zong/bangding/control
+        weight: 1
+      - path: zong/bangding/control/LeftHip
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe1
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe1/LeftToe 1
+        weight: 1
+      - path: zong/bangding/control/RightHip
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe1
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe1/RightToe
+          1
+        weight: 1
+      - path: zong/bangding/control/yao
+        weight: 1
+      - path: zong/bangding/control/yao/fu
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing/tou
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing/tou/ding
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1/LeftFinger 6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1/LeftFinger 6/LeftFinger 11
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2/LeftFinger 7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2/LeftFinger 7/LeftFinger 12
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3/LeftFinger 8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3/LeftFinger 8/LeftFinger 13
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4/LeftFinger 9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4/LeftFinger 9/LeftFinger 14
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5/LeftFinger 10
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5/LeftFinger 10/LeftFinger 15
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1/RightFinger 6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1/RightFinger 6/RightFinger 11
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2/RightFinger 7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2/RightFinger 7/RightFinger 12
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3/RightFinger 8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3/RightFinger 8/RightFinger 13
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4/RightFinger 9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4/RightFinger 9/RightFinger 14
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5/RightFinger 10
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5/RightFinger 10/RightFinger 15
+        weight: 1
+      - path: zong/bangding/cu
+        weight: 1
+      - path: zong/bangding/cu/cluster1Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster2Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster3Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster4Handle
+        weight: 1
+      - path: zong/bangding/IK
+        weight: 1
+      - path: zong/bangding/IK/ikHandle1
+        weight: 1
+      - path: zong/bangding/IK/ikHandle2
+        weight: 1
+      - path: zong/bangding/IK/ikHandle5
+        weight: 1
+      - path: zong/bangding/IK/ikHandle6
+        weight: 1
+      - path: zong/bangding/IK/ikHandle7
+        weight: 1
+      - path: zong/bangding/IK/ikHandle8
+        weight: 1
+      - path: zong/bangding/kongzhiqi
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone02
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone04
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone06
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone08
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone12
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve6
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder6
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder8
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder9
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder11
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pPipe1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder2
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder3
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder4
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder5
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder6
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder7
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder8
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder9
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder10
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder11
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pPipe1
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder2
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder3
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder4
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder5
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder6
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder7
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder8
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder9
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder10
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder11
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pPipe1
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCylinder1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pHelix1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface73
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74/polySurface75
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74/polySurface76
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/nurbsCircle7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/nurbsCircle8
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/nurbsCircle10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/nurbsCircle11
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle1/nurbsCircle3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle2/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take 003
+      takeName: Take 001
+      firstFrame: 102
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2321601
+        weight: 1
+      - path: xianzi
+        weight: 1
+      - path: xianzi/faji
+        weight: 1
+      - path: xianzi/qunzi
+        weight: 1
+      - path: xianzi/shangshen
+        weight: 1
+      - path: xianzi/toufa
+        weight: 1
+      - path: xianzi/toufa/group1
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface48
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface49
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface50
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface51
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface52
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface53
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface54
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface55
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface56
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface57
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface58
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface59
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface60
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface62
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface63
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface65
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface66
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface67
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface68
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface69
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface70
+        weight: 1
+      - path: xianzi/toufa/group1/polySurface71
+        weight: 1
+      - path: xianzi/toufa/group1/yan_l
+        weight: 1
+      - path: xianzi/toufa/group2
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface48 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface49 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface50 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface51 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface52 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface53 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface54 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface55 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface56 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface57 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface58 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface59 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface60 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface62 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface63 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface65 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface66 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface67 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface68 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface69 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface70 1
+        weight: 1
+      - path: xianzi/toufa/group2/polySurface71 1
+        weight: 1
+      - path: xianzi/toufa/group2/yan_l 1
+        weight: 1
+      - path: xianzi/toufa/polySurface47
+        weight: 1
+      - path: xianzi/toufa/polySurface61
+        weight: 1
+      - path: xianzi/toufa/polySurface64
+        weight: 1
+      - path: xianzi/tousheng
+        weight: 1
+      - path: xianzi/tui_l
+        weight: 1
+      - path: xianzi/tui_r
+        weight: 1
+      - path: xianzi/xiezi_l
+        weight: 1
+      - path: xianzi/xiezi_r
+        weight: 1
+      - path: zong
+        weight: 1
+      - path: zong/bangding
+        weight: 1
+      - path: zong/bangding/control
+        weight: 1
+      - path: zong/bangding/control/LeftHip
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe1
+        weight: 1
+      - path: zong/bangding/control/LeftHip/LeftKnee/LeftFoot/LeftToe1/LeftToe 1
+        weight: 1
+      - path: zong/bangding/control/RightHip
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe1
+        weight: 1
+      - path: zong/bangding/control/RightHip/RightKnee/RightFoot/RightToe1/RightToe
+          1
+        weight: 1
+      - path: zong/bangding/control/yao
+        weight: 1
+      - path: zong/bangding/control/yao/fu
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing/tou
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/jing/tou/ding
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1/LeftFinger 6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger5/LeftFinger
+          1/LeftFinger 6/LeftFinger 11
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2/LeftFinger 7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger6/LeftFinger
+          2/LeftFinger 7/LeftFinger 12
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3/LeftFinger 8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger7/LeftFinger
+          3/LeftFinger 8/LeftFinger 13
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4/LeftFinger 9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger8/LeftFinger
+          4/LeftFinger 9/LeftFinger 14
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5/LeftFinger 10
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/LeftShoulder/LeftElbow/LeftHand/LeftFinger/LeftFinger9/LeftFinger
+          5/LeftFinger 10/LeftFinger 15
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1/RightFinger 6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger5/RightFinger
+          1/RightFinger 6/RightFinger 11
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2/RightFinger 7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger6/RightFinger
+          2/RightFinger 7/RightFinger 12
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3/RightFinger 8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger7/RightFinger
+          3/RightFinger 8/RightFinger 13
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4/RightFinger 9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger8/RightFinger
+          4/RightFinger 9/RightFinger 14
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5/RightFinger 10
+        weight: 1
+      - path: zong/bangding/control/yao/fu/xiong/RightShoulder/RightElbow/RightHand/RightFinger/RightFinger9/RightFinger
+          5/RightFinger 10/RightFinger 15
+        weight: 1
+      - path: zong/bangding/cu
+        weight: 1
+      - path: zong/bangding/cu/cluster1Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster2Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster3Handle
+        weight: 1
+      - path: zong/bangding/cu/cluster4Handle
+        weight: 1
+      - path: zong/bangding/IK
+        weight: 1
+      - path: zong/bangding/IK/ikHandle1
+        weight: 1
+      - path: zong/bangding/IK/ikHandle2
+        weight: 1
+      - path: zong/bangding/IK/ikHandle5
+        weight: 1
+      - path: zong/bangding/IK/ikHandle6
+        weight: 1
+      - path: zong/bangding/IK/ikHandle7
+        weight: 1
+      - path: zong/bangding/IK/ikHandle8
+        weight: 1
+      - path: zong/bangding/kongzhiqi
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone02
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone04
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone06
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone08
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/Bone01/Bone12
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve6
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder6
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder8
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder9
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pCylinder11
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan/pPipe1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder2
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder3
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder4
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder5
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder6
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder7
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder8
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder9
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder10
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pCylinder11
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan1/pPipe1
+          1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder2
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder3
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder4
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder5
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder6
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder7
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder8
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder9
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder10
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pCylinder11
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/huan2/pPipe1
+          2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCube5
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pCylinder1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/pHelix1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface73
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74/polySurface75
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/curve7/quanzhang/polySurface72/polySurface74/polySurface76
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/nurbsCircle7
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/curve5/nurbsCircle8
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/nurbsCircle10
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve1/nurbsCircle11
+        weight: 1
+      - path: zong/bangding/kongzhiqi/curve4
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle1
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle1/nurbsCircle3
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle2
+        weight: 1
+      - path: zong/bangding/kongzhiqi/nurbsCircle2/nurbsCircle4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

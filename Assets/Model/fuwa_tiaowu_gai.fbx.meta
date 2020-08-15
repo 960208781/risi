@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: ae63babfb0febe7408ff8c4dd91a2e86
+timeCreated: 1496829640
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bizi
+    100002: cluster1Handle
+    100004: cluster2Handle
+    100006: cluster3Handle
+    100008: cluster4Handle
+    100010: curve1
+    100012: er_l
+    100014: er_r
+    100016: //RootNode
+    100018: group1
+    100020: group2
+    100022: group3
+    100024: huan1
+    100026: huo
+    100028: ikHandle12
+    100030: ikHandle13
+    100032: ikHandle14
+    100034: ikHandle15
+    100036: ikHandle8
+    100038: ikHandle9
+    100040: joint10
+    100042: joint11
+    100044: joint12
+    100046: joint13
+    100048: joint14
+    100050: joint15
+    100052: joint16
+    100054: joint17
+    100056: joint18
+    100058: joint19
+    100060: joint20
+    100062: joint21
+    100064: joint22
+    100066: joint23
+    100068: joint24
+    100070: joint25
+    100072: joint26
+    100074: joint27
+    100076: joint33
+    100078: joint34
+    100080: joint35
+    100082: joint36
+    100084: joint37
+    100086: joint38
+    100088: joint39
+    100090: joint40
+    100092: joint41
+    100094: joint42
+    100096: joint43
+    100098: joint44
+    100100: joint45
+    100102: joint46
+    100104: joint47
+    100106: joint48
+    100108: joint49
+    100110: joint6
+    100112: joint63
+    100114: joint64
+    100116: joint65
+    100118: joint66
+    100120: joint66 1
+    100122: joint67
+    100124: joint67 1
+    100126: joint68
+    100128: joint68 1
+    100130: joint69
+    100132: joint69 1
+    100134: joint7
+    100136: joint70
+    100138: joint70 1
+    100140: joint77
+    100142: joint8
+    100144: joint9
+    100146: maozi
+    100148: maozi_ce
+    100150: maozi_zhong
+    100152: nurbsCircle1
+    100154: nurbsCircle10
+    100156: nurbsCircle11
+    100158: nurbsCircle12
+    100160: nurbsCircle13
+    100162: nurbsCircle14
+    100164: nurbsCircle2
+    100166: nurbsCircle3
+    100168: nurbsCircle4
+    100170: nurbsCircle5
+    100172: nurbsCircle6
+    100174: nurbsCircle7
+    100176: nurbsCircle9
+    100178: shenti
+    100180: shetou
+    100182: toufa
+    100184: wuguan
+    100186: yanqiu_l
+    100188: yanqiu_r
+    100190: zhu
+    400000: bizi
+    400002: cluster1Handle
+    400004: cluster2Handle
+    400006: cluster3Handle
+    400008: cluster4Handle
+    400010: curve1
+    400012: er_l
+    400014: er_r
+    400016: //RootNode
+    400018: group1
+    400020: group2
+    400022: group3
+    400024: huan1
+    400026: huo
+    400028: ikHandle12
+    400030: ikHandle13
+    400032: ikHandle14
+    400034: ikHandle15
+    400036: ikHandle8
+    400038: ikHandle9
+    400040: joint10
+    400042: joint11
+    400044: joint12
+    400046: joint13
+    400048: joint14
+    400050: joint15
+    400052: joint16
+    400054: joint17
+    400056: joint18
+    400058: joint19
+    400060: joint20
+    400062: joint21
+    400064: joint22
+    400066: joint23
+    400068: joint24
+    400070: joint25
+    400072: joint26
+    400074: joint27
+    400076: joint33
+    400078: joint34
+    400080: joint35
+    400082: joint36
+    400084: joint37
+    400086: joint38
+    400088: joint39
+    400090: joint40
+    400092: joint41
+    400094: joint42
+    400096: joint43
+    400098: joint44
+    400100: joint45
+    400102: joint46
+    400104: joint47
+    400106: joint48
+    400108: joint49
+    400110: joint6
+    400112: joint63
+    400114: joint64
+    400116: joint65
+    400118: joint66
+    400120: joint66 1
+    400122: joint67
+    400124: joint67 1
+    400126: joint68
+    400128: joint68 1
+    400130: joint69
+    400132: joint69 1
+    400134: joint7
+    400136: joint70
+    400138: joint70 1
+    400140: joint77
+    400142: joint8
+    400144: joint9
+    400146: maozi
+    400148: maozi_ce
+    400150: maozi_zhong
+    400152: nurbsCircle1
+    400154: nurbsCircle10
+    400156: nurbsCircle11
+    400158: nurbsCircle12
+    400160: nurbsCircle13
+    400162: nurbsCircle14
+    400164: nurbsCircle2
+    400166: nurbsCircle3
+    400168: nurbsCircle4
+    400170: nurbsCircle5
+    400172: nurbsCircle6
+    400174: nurbsCircle7
+    400176: nurbsCircle9
+    400178: shenti
+    400180: shetou
+    400182: toufa
+    400184: wuguan
+    400186: yanqiu_l
+    400188: yanqiu_r
+    400190: zhu
+    4300000: er_r
+    4300002: er_l
+    4300004: maozi_zhong
+    4300006: maozi_ce
+    4300008: huo
+    4300010: zhu
+    4300012: bizi
+    4300014: toufa
+    4300016: shetou
+    4300018: yanqiu_l
+    4300020: yanqiu_r
+    4300022: shenti
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bizi
+    13700002: er_l
+    13700004: er_r
+    13700006: huo
+    13700008: maozi_ce
+    13700010: maozi_zhong
+    13700012: shenti
+    13700014: shetou
+    13700016: toufa
+    13700018: yanqiu_l
+    13700020: yanqiu_r
+    13700022: zhu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: -5
+      lastFrame: 630
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: group3/group1
+        weight: 1
+      - path: group3/group1/curve1
+        weight: 1
+      - path: group3/group1/nurbsCircle1
+        weight: 1
+      - path: group3/group1/nurbsCircle2
+        weight: 1
+      - path: group3/group1/nurbsCircle3
+        weight: 1
+      - path: group3/group1/nurbsCircle4
+        weight: 1
+      - path: group3/group1/nurbsCircle4/nurbsCircle9
+        weight: 1
+      - path: group3/group1/nurbsCircle4/nurbsCircle9/nurbsCircle12
+        weight: 1
+      - path: group3/group1/nurbsCircle4/nurbsCircle10
+        weight: 1
+      - path: group3/group1/nurbsCircle4/nurbsCircle11
+        weight: 1
+      - path: group3/group1/nurbsCircle4/nurbsCircle13
+        weight: 1
+      - path: group3/group1/nurbsCircle4/nurbsCircle14
+        weight: 1
+      - path: group3/group1/nurbsCircle5
+        weight: 1
+      - path: group3/group1/nurbsCircle6
+        weight: 1
+      - path: group3/group1/nurbsCircle7
+        weight: 1
+      - path: group3/group2
+        weight: 1
+      - path: group3/group2/cluster1Handle
+        weight: 1
+      - path: group3/group2/cluster2Handle
+        weight: 1
+      - path: group3/group2/cluster3Handle
+        weight: 1
+      - path: group3/group2/cluster4Handle
+        weight: 1
+      - path: group3/group2/ikHandle8
+        weight: 1
+      - path: group3/group2/ikHandle9
+        weight: 1
+      - path: group3/group2/ikHandle12
+        weight: 1
+      - path: group3/group2/ikHandle13
+        weight: 1
+      - path: group3/group2/ikHandle14
+        weight: 1
+      - path: group3/group2/ikHandle15
+        weight: 1
+      - path: group3/joint6
+        weight: 1
+      - path: group3/joint6/joint7
+        weight: 1
+      - path: group3/joint6/joint7/joint64
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint9
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint9/joint63
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint9/joint63/joint10
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint19
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint19/joint20
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint19/joint20/joint21
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint22
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint22/joint23
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint22/joint23/joint24
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint25
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint25/joint26
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint11/joint12/joint13/joint14/joint15/joint25/joint26/joint27
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint41
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint41/joint42
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint41/joint42/joint43
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint44
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint44/joint45
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint44/joint45/joint46
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint47
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint47/joint48
+        weight: 1
+      - path: group3/joint6/joint7/joint64/joint8/joint33/joint34/joint35/joint36/joint37/joint47/joint48/joint49
+        weight: 1
+      - path: group3/joint6/joint65
+        weight: 1
+      - path: group3/joint6/joint65/joint66
+        weight: 1
+      - path: group3/joint6/joint65/joint66/joint67
+        weight: 1
+      - path: group3/joint6/joint65/joint66/joint67/joint68
+        weight: 1
+      - path: group3/joint6/joint65/joint66/joint67/joint68/joint69
+        weight: 1
+      - path: group3/joint6/joint65/joint66/joint67/joint70
+        weight: 1
+      - path: group3/joint6/joint77
+        weight: 1
+      - path: group3/joint6/joint77/joint66 1
+        weight: 1
+      - path: group3/joint6/joint77/joint66 1/joint67 1
+        weight: 1
+      - path: group3/joint6/joint77/joint66 1/joint67 1/joint68 1
+        weight: 1
+      - path: group3/joint6/joint77/joint66 1/joint67 1/joint68 1/joint69 1
+        weight: 1
+      - path: group3/joint6/joint77/joint66 1/joint67 1/joint70 1
+        weight: 1
+      - path: huan1
+        weight: 1
+      - path: huan1/maozi
+        weight: 1
+      - path: huan1/maozi/er_l
+        weight: 1
+      - path: huan1/maozi/er_r
+        weight: 1
+      - path: huan1/maozi/huo
+        weight: 1
+      - path: huan1/maozi/maozi_ce
+        weight: 1
+      - path: huan1/maozi/maozi_zhong
+        weight: 1
+      - path: huan1/maozi/zhu
+        weight: 1
+      - path: huan1/shenti
+        weight: 1
+      - path: huan1/wuguan
+        weight: 1
+      - path: huan1/wuguan/bizi
+        weight: 1
+      - path: huan1/wuguan/shetou
+        weight: 1
+      - path: huan1/wuguan/toufa
+        weight: 1
+      - path: huan1/wuguan/yanqiu_l
+        weight: 1
+      - path: huan1/wuguan/yanqiu_r
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
