@@ -1,0 +1,613 @@
+{
+  "location": {
+    "latitude": 39.984511,
+    "longitude": 116.417198
+  },
+  "poiList": [
+    {
+      "adcode": "110105",
+      "address": "惠新西街18号北京罗马花园",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "34",
+      "email": "",
+      "id": "B000A8377L",
+      "location": "116.417572,39.984621",
+      "name": "北京罗马花园停车场",
+      "name_py": "beijingluomahuayuantingchechang",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13daa310fd36c3eb6d21"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13daa310fd36c3eb6d1f"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;专用停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;zhuanyongtingchechang",
+      "typecode": "150905"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街18号",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "38",
+      "email": "",
+      "id": "B0FFG7TZVR",
+      "location": "116.417572,39.984703",
+      "name": "罗马花园停车场",
+      "name_py": "luomahuayuantingchechang",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/bd6e8b866e772264f59759cac8ff0a82"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang",
+      "typecode": "150904"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街18号罗马花园",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "45",
+      "email": "",
+      "id": "B0FFGB9MCP",
+      "location": "116.417590,39.984229",
+      "name": "罗马花园停车场",
+      "name_py": "luomahuayuantingchechang",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/25dbd888a4e4de2b6bfbe1fa9899e882"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13daa310fd36c3eb6d33"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13daa310fd36c3eb6d38"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;路边停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;lubiantingchechang",
+      "typecode": "150906"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街临乙17号楼附近",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "47",
+      "email": "",
+      "id": "B000A83IZ6",
+      "location": "116.416950,39.984127",
+      "name": "停车场(惠新西街小区西南)",
+      "name_py": "tingchechang(huixinxijiexiaoquxinan)",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/538fe0c7a310b13376484c5c"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场|交通设施服务;停车场;路边停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang|jiaotongsheshifuwu;tingchechang;lubiantingchechang",
+      "typecode": "150904|150906"
+    },
+    {
+      "adcode": "110105",
+      "address": "安苑路17号",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "5.0",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "65",
+      "email": "",
+      "id": "B0FFHUQ57P",
+      "location": "116.416855,39.983983",
+      "name": "和合谷(安苑路店)",
+      "name_py": "hehegu(anyuanludian)",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/175882801ec73196af35f0386477c6df"
+        }
+      ],
+      "tel": "010-68784891",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "type_py": "canyinfuwu;zhongcanting;zhongcanting",
+      "typecode": "050100"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街17号惠新西街小区",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "78",
+      "email": "",
+      "id": "B0FFFYGLCR",
+      "location": "116.416288,39.984441",
+      "name": "惠新西街小区停车场",
+      "name_py": "huixinxijiexiaoqutingchechang",
+      "photos": [],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang",
+      "typecode": "150904"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街物美大卖场1楼",
+      "biz_ext": {
+        "cost": "39.00",
+        "lowest_price": "",
+        "rating": "3.5",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "81",
+      "email": "",
+      "id": "B000AA5E99",
+      "location": "116.416873,39.983820",
+      "name": "德州扒鸡(惠新店)",
+      "name_py": "dezhoubaji(huixindian)",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/3a34a99dfa081d0b4ba5f6f400f94837"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/901a53392f9802ad0084e1ebdc840df7"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/74ab7a3d1d6451ed25b9fe9cb6b19bae"
+        }
+      ],
+      "tel": "010-64972868;15010102816",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "type_py": "canyinfuwu;zhongcanting;zhongcanting",
+      "typecode": "050100"
+    },
+    {
+      "adcode": "110105",
+      "address": "安苑路17号巧思大厦1层",
+      "biz_ext": {
+        "cost": "44.00",
+        "lowest_price": "",
+        "rating": "4.0",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "84",
+      "email": "",
+      "id": "B0FFHJHTIM",
+      "location": "116.416882,39.983794",
+      "name": "鲍师傅糕点(惠新店)",
+      "name_py": "baoshifugaodian(huixindian)",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/00e11d94ed89a6a5147b16226c18a419"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/531ab93799f72453f339c2c9adc29419"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/27868f91ae23d65e041968c5056deca4"
+        }
+      ],
+      "tel": "18710165670",
+      "type": "餐饮服务;糕饼店;糕饼店",
+      "type_py": "canyinfuwu;gaobingdian;gaobingdian",
+      "typecode": "050800"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街安苑路17号巧思大厦2层",
+      "biz_ext": {
+        "cost": "94.00",
+        "lowest_price": "",
+        "rating": "4.0",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "97",
+      "email": "",
+      "id": "B0FFGYNL99",
+      "location": "116.416776,39.983695",
+      "name": "宸悦·secret garden",
+      "name_py": "zuoyuesecret garden",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/1e5216401db2c5c1c0c7c86f1e5412a9"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/744691b86adc8bed213d751ecfcc3d9b"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/1e49355c39cc6fb7f3f4227e1d964b87"
+        }
+      ],
+      "tel": "010-64498868;18701231911;13911967720",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "type_py": "canyinfuwu;zhongcanting;zhongcanting",
+      "typecode": "050100"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街18号附近罗马阳光便利店内",
+      "biz_ext": {
+        "cost": "33.00",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "102",
+      "email": "",
+      "id": "B0FFHD7Z2Y",
+      "location": "116.418320,39.984191",
+      "name": "七彩蛋糕房",
+      "name_py": "qicaidangaofang",
+      "photos": [],
+      "tel": "13269061899",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "type_py": "canyinfuwu;canyinxiangguanchangsuo;canyinxiangguan",
+      "typecode": "050000"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新北街与惠新西街交叉口东南50米",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "109",
+      "email": "",
+      "id": "B0FFGXZRXD",
+      "location": "116.417517,39.985461",
+      "name": "停车场",
+      "name_py": "tingchechang",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/fdbb7880ce308663d0b6ffa5c27622dc"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;路边停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;lubiantingchechang",
+      "typecode": "150906"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街安苑路交叉口巧思大厦2楼",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "109",
+      "email": "",
+      "id": "B0FFHS39NS",
+      "location": "116.416657,39.983617",
+      "name": "晨悦餐厅",
+      "name_py": "chenyuecanting",
+      "photos": [],
+      "tel": "",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "type_py": "canyinfuwu;zhongcanting;zhongcanting",
+      "typecode": "050100"
+    },
+    {
+      "adcode": "110105",
+      "address": "安苑路与惠新西街交叉口西50米",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "112",
+      "email": "",
+      "id": "B0FFGXZSE4",
+      "location": "116.416667,39.983583",
+      "name": "停车场(惠新西街小区西南)",
+      "name_py": "tingchechang(huixinxijiexiaoquxinan)",
+      "photos": [],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang",
+      "typecode": "150904"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街9号院-3-1",
+      "biz_ext": {
+        "cost": "107.00",
+        "lowest_price": "",
+        "rating": "3.0",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "113",
+      "email": "",
+      "id": "B000A87J2W",
+      "location": "116.416715,39.985459",
+      "name": "清香阁平价海鲜(惠新店)",
+      "name_py": "qingxianggepingjiahaixian(huixindian)",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/e7caea50bfe1abcf23a0208eb1307200"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/b4eb44a7d8f9ba6600d307e753038a23"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/538fe0c6a310b13376484c19"
+        }
+      ],
+      "tel": "010-64928544;010-64949544;18911210279",
+      "type": "餐饮服务;中餐厅;海鲜酒楼",
+      "type_py": "canyinfuwu;zhongcanting;haixianjiulou",
+      "typecode": "050119"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新东街与惠新北街交叉口西南150米",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "113",
+      "email": "",
+      "id": "B0FFG7H110",
+      "location": "116.418518,39.984638",
+      "name": "停车场(蓝珏苑南)",
+      "name_py": "tingchechang(lanzuoyuannan)",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13daa310fd36c3eb6d1a"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang",
+      "typecode": "150904"
+    },
+    {
+      "adcode": "110105",
+      "address": "安苑路与惠新西街交叉口西50米",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "115",
+      "email": "",
+      "id": "B0FFGXZSYJ",
+      "location": "116.416662,39.983559",
+      "name": "停车场(出入口)",
+      "name_py": "tingchechang(churukou)",
+      "photos": [],
+      "tel": "",
+      "type": "交通设施服务;停车场;停车场出入口",
+      "type_py": "jiaotongsheshifuwu;tingchechang;tingchechangchurukou",
+      "typecode": "150909"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街16号",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "125",
+      "email": "",
+      "id": "B000A7I4QI",
+      "location": "116.417925,39.985496",
+      "name": "蓝珏苑停车场",
+      "name_py": "lanzuoyuantingchechang",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13d6a310fd36c3eb5edf"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13d6a310fd36c3eb5eda"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13d6a310fd36c3eb5edc"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang",
+      "typecode": "150904"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街物美对面千鹤家园门口",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "3.5",
+        "star": ""
+      },
+      "biz_type": "diner",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "134",
+      "email": "",
+      "id": "B0FFGHB15D",
+      "location": "116.417734,39.985643",
+      "name": "金三元烤串(惠新西街北口店)",
+      "name_py": "jinsanyuankaochuan(huixinxijiebeikoudian)",
+      "photos": [],
+      "tel": "13718038882",
+      "type": "餐饮服务;中餐厅;特色/地方风味餐厅",
+      "type_py": "canyinfuwu;zhongcanting;tese/difangfengweicanting",
+      "typecode": "050118"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街16号",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "141",
+      "email": "",
+      "id": "B0FFG7U28E",
+      "location": "116.417922,39.985658",
+      "name": "蓝珏苑小区停车场",
+      "name_py": "lanzuoyuanxiaoqutingchechang",
+      "photos": [
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13d6a310fd36c3eb5ebd"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13d6a310fd36c3eb5ec0"
+        },
+        {
+          "title": "",
+          "url": "http://store.is.autonavi.com/showpic/53da13d6a310fd36c3eb5ec2"
+        }
+      ],
+      "tel": "",
+      "type": "交通设施服务;停车场;路边停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;lubiantingchechang",
+      "typecode": "150906"
+    },
+    {
+      "adcode": "110105",
+      "address": "惠新西街19号附近",
+      "biz_ext": {
+        "cost": "",
+        "lowest_price": "",
+        "rating": "",
+        "star": ""
+      },
+      "biz_type": "",
+      "cityname": "北京市",
+      "deep_info": {},
+      "distance": "144",
+      "email": "",
+      "id": "B0FFH8DJ36",
+      "location": "116.416776,39.983251",
+      "name": "国投贸易停车场",
+      "name_py": "guotoumaoyitingchechang",
+      "photos": [],
+      "tel": "",
+      "type": "交通设施服务;停车场;公共停车场",
+      "type_py": "jiaotongsheshifuwu;tingchechang;gonggongtingchechang",
+      "typecode": "150904"
+    }
+  ]
+}

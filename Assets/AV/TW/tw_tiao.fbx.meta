@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: d0db9f0cdc77a4040b4fe9c067cd12c6
+timeCreated: 1498031640
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: tw_1
+    100002: tw_1_d
+    100004: tw_1_u
+    100006: tw_2
+    100008: tw_2_d
+    100010: tw_2_u
+    100012: tw_3
+    100014: tw_3_d
+    100016: tw_3_u
+    100018: tw_4
+    100020: tw_4_d
+    100022: tw_4_u
+    100024: tw_5
+    100026: tw_5_d
+    100028: tw_5_u
+    100030: //RootNode
+    400000: tw_1
+    400002: tw_1_d
+    400004: tw_1_u
+    400006: tw_2
+    400008: tw_2_d
+    400010: tw_2_u
+    400012: tw_3
+    400014: tw_3_d
+    400016: tw_3_u
+    400018: tw_4
+    400020: tw_4_d
+    400022: tw_4_u
+    400024: tw_5
+    400026: tw_5_d
+    400028: tw_5_u
+    400030: //RootNode
+    2300000: tw_1_d
+    2300002: tw_1_u
+    2300004: tw_2_d
+    2300006: tw_2_u
+    2300008: tw_3_d
+    2300010: tw_3_u
+    2300012: tw_4_d
+    2300014: tw_4_u
+    2300016: tw_5_d
+    2300018: tw_5_u
+    3300000: tw_1_d
+    3300002: tw_1_u
+    3300004: tw_2_d
+    3300006: tw_2_u
+    3300008: tw_3_d
+    3300010: tw_3_u
+    3300012: tw_4_d
+    3300014: tw_4_u
+    3300016: tw_5_d
+    3300018: tw_5_u
+    4300000: tw_1_u
+    4300002: tw_1_d
+    4300004: tw_2_u
+    4300006: tw_2_d
+    4300008: tw_3_u
+    4300010: tw_3_d
+    4300012: tw_4_u
+    4300014: tw_4_d
+    4300016: tw_5_u
+    4300018: tw_5_d
+    7400000: tiao
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tiao
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tw_1
+        weight: 1
+      - path: tw_1/tw_1_d
+        weight: 1
+      - path: tw_1/tw_1_u
+        weight: 1
+      - path: tw_1/tw_2
+        weight: 1
+      - path: tw_1/tw_2/tw_2_d
+        weight: 1
+      - path: tw_1/tw_2/tw_2_u
+        weight: 1
+      - path: tw_1/tw_2/tw_3
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_3_d
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_3_u
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_4
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_4/tw_4_d
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_4/tw_4_u
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_4/tw_5
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_4/tw_5/tw_5_d
+        weight: 1
+      - path: tw_1/tw_2/tw_3/tw_4/tw_5/tw_5_u
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

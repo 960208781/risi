@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 23e9810c052ce4e4985daf72389ec8d6
+timeCreated: 1469886576
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A02:polySurface2
+    100004: A02:polySurface6
+    100006: A02:pPipe1
+    100008: A02:pPlane1
+    100010: A02:pPlane7
+    100012: A02:pSphere3
+    100014: AAA
+    100016: CR_TRL01
+    100018: CR_TRL02
+    100020: CR_TRL03
+    100022: CR_TRL04
+    100024: CR_TRL05
+    100026: group10
+    100028: group11
+    100030: group12
+    100032: group9
+    100034: ikHandle1
+    100036: ikHandle10
+    100038: ikHandle2
+    100040: ikHandle3
+    100042: ikHandle4
+    100044: ikHandle5
+    100046: ikHandle6
+    100048: ikHandle7
+    100050: ikHandle8
+    100052: ikHandle9
+    100054: joint10
+    100056: joint100
+    100058: joint101
+    100060: joint102
+    100062: joint103
+    100064: joint104
+    100066: joint105
+    100068: joint106
+    100070: joint107
+    100072: joint108
+    100074: joint109
+    100076: joint11
+    100078: joint110
+    100080: joint111
+    100082: joint112
+    100084: joint113
+    100086: joint114
+    100088: joint115
+    100090: joint116
+    100092: joint117
+    100094: joint118
+    100096: joint119
+    100098: joint12
+    100100: joint120
+    100102: joint121
+    100104: joint122
+    100106: joint123
+    100108: joint124
+    100110: joint125
+    100112: joint126
+    100114: joint127
+    100116: joint128
+    100118: joint129
+    100120: joint13
+    100122: joint130
+    100124: joint131
+    100126: joint14
+    100128: joint15
+    100130: joint16
+    100132: joint17
+    100134: joint18
+    100136: joint19
+    100138: joint20
+    100140: joint21
+    100142: joint22
+    100144: joint23
+    100146: joint24
+    100148: joint25
+    100150: joint26
+    100152: joint27
+    100154: joint28
+    100156: joint29
+    100158: joint30
+    100160: joint31
+    100162: joint32
+    100164: joint33
+    100166: joint34
+    100168: joint35
+    100170: joint36
+    100172: joint37
+    100174: joint38
+    100176: joint39
+    100178: joint40
+    100180: joint41
+    100182: joint42
+    100184: joint43
+    100186: joint44
+    100188: joint45
+    100190: joint46
+    100192: joint47
+    100194: joint48
+    100196: joint49
+    100198: joint50
+    100200: joint51
+    100202: joint52
+    100204: joint53
+    100206: joint54
+    100208: joint55
+    100210: joint56
+    100212: joint57
+    100214: joint58
+    100216: joint59
+    100218: joint6
+    100220: joint60
+    100222: joint61
+    100224: joint62
+    100226: joint63
+    100228: joint64
+    100230: joint65
+    100232: joint66
+    100234: joint67
+    100236: joint68
+    100238: joint69
+    100240: joint7
+    100242: joint70
+    100244: joint71
+    100246: joint72
+    100248: joint73
+    100250: joint74
+    100252: joint75
+    100254: joint76
+    100256: joint77
+    100258: joint78
+    100260: joint79
+    100262: joint8
+    100264: joint80
+    100266: joint81
+    100268: joint82
+    100270: joint83
+    100272: joint84
+    100274: joint85
+    100276: joint86
+    100278: joint87
+    100280: joint88
+    100282: joint89
+    100284: joint9
+    100286: joint90
+    100288: joint91
+    100290: joint92
+    100292: joint93
+    100294: joint94
+    100296: joint95
+    100298: joint96
+    100300: joint97
+    100302: joint98
+    100304: joint99
+    100306: nurbsCircle10
+    100308: nurbsCircle11
+    100310: nurbsCircle2
+    100312: nurbsCircle4
+    100314: nurbsCircle5
+    100316: nurbsCircle6
+    100318: nurbsCircle8
+    100320: nurbsCircle9
+    100322: OldMan_Ctrl
+    100324: polySurface2
+    100326: polySurface5
+    100328: pSphere6
+    100330: ShuiNiu
+    100332: ShuiNiu_Ctrl
+    100334: WeiBa
+    100336: xiuzi2:pCylinder7
+    400000: //RootNode
+    400002: A02:polySurface2
+    400004: A02:polySurface6
+    400006: A02:pPipe1
+    400008: A02:pPlane1
+    400010: A02:pPlane7
+    400012: A02:pSphere3
+    400014: AAA
+    400016: CR_TRL01
+    400018: CR_TRL02
+    400020: CR_TRL03
+    400022: CR_TRL04
+    400024: CR_TRL05
+    400026: group10
+    400028: group11
+    400030: group12
+    400032: group9
+    400034: ikHandle1
+    400036: ikHandle10
+    400038: ikHandle2
+    400040: ikHandle3
+    400042: ikHandle4
+    400044: ikHandle5
+    400046: ikHandle6
+    400048: ikHandle7
+    400050: ikHandle8
+    400052: ikHandle9
+    400054: joint10
+    400056: joint100
+    400058: joint101
+    400060: joint102
+    400062: joint103
+    400064: joint104
+    400066: joint105
+    400068: joint106
+    400070: joint107
+    400072: joint108
+    400074: joint109
+    400076: joint11
+    400078: joint110
+    400080: joint111
+    400082: joint112
+    400084: joint113
+    400086: joint114
+    400088: joint115
+    400090: joint116
+    400092: joint117
+    400094: joint118
+    400096: joint119
+    400098: joint12
+    400100: joint120
+    400102: joint121
+    400104: joint122
+    400106: joint123
+    400108: joint124
+    400110: joint125
+    400112: joint126
+    400114: joint127
+    400116: joint128
+    400118: joint129
+    400120: joint13
+    400122: joint130
+    400124: joint131
+    400126: joint14
+    400128: joint15
+    400130: joint16
+    400132: joint17
+    400134: joint18
+    400136: joint19
+    400138: joint20
+    400140: joint21
+    400142: joint22
+    400144: joint23
+    400146: joint24
+    400148: joint25
+    400150: joint26
+    400152: joint27
+    400154: joint28
+    400156: joint29
+    400158: joint30
+    400160: joint31
+    400162: joint32
+    400164: joint33
+    400166: joint34
+    400168: joint35
+    400170: joint36
+    400172: joint37
+    400174: joint38
+    400176: joint39
+    400178: joint40
+    400180: joint41
+    400182: joint42
+    400184: joint43
+    400186: joint44
+    400188: joint45
+    400190: joint46
+    400192: joint47
+    400194: joint48
+    400196: joint49
+    400198: joint50
+    400200: joint51
+    400202: joint52
+    400204: joint53
+    400206: joint54
+    400208: joint55
+    400210: joint56
+    400212: joint57
+    400214: joint58
+    400216: joint59
+    400218: joint6
+    400220: joint60
+    400222: joint61
+    400224: joint62
+    400226: joint63
+    400228: joint64
+    400230: joint65
+    400232: joint66
+    400234: joint67
+    400236: joint68
+    400238: joint69
+    400240: joint7
+    400242: joint70
+    400244: joint71
+    400246: joint72
+    400248: joint73
+    400250: joint74
+    400252: joint75
+    400254: joint76
+    400256: joint77
+    400258: joint78
+    400260: joint79
+    400262: joint8
+    400264: joint80
+    400266: joint81
+    400268: joint82
+    400270: joint83
+    400272: joint84
+    400274: joint85
+    400276: joint86
+    400278: joint87
+    400280: joint88
+    400282: joint89
+    400284: joint9
+    400286: joint90
+    400288: joint91
+    400290: joint92
+    400292: joint93
+    400294: joint94
+    400296: joint95
+    400298: joint96
+    400300: joint97
+    400302: joint98
+    400304: joint99
+    400306: nurbsCircle10
+    400308: nurbsCircle11
+    400310: nurbsCircle2
+    400312: nurbsCircle4
+    400314: nurbsCircle5
+    400316: nurbsCircle6
+    400318: nurbsCircle8
+    400320: nurbsCircle9
+    400322: OldMan_Ctrl
+    400324: polySurface2
+    400326: polySurface5
+    400328: pSphere6
+    400330: ShuiNiu
+    400332: ShuiNiu_Ctrl
+    400334: WeiBa
+    400336: xiuzi2:pCylinder7
+    2300000: A02:polySurface2
+    2300002: A02:pPipe1
+    2300004: A02:pPlane1
+    2300006: A02:pPlane7
+    2300008: A02:pSphere3
+    2300010: polySurface2
+    2300012: pSphere6
+    2300014: xiuzi2:pCylinder7
+    3300000: A02:polySurface2
+    3300002: A02:pPipe1
+    3300004: A02:pPlane1
+    3300006: A02:pPlane7
+    3300008: A02:pSphere3
+    3300010: polySurface2
+    3300012: pSphere6
+    3300014: xiuzi2:pCylinder7
+    4300000: ShuiNiu
+    4300002: A02:polySurface6
+    4300004: polySurface5
+    4300006: A02:polySurface2
+    4300008: polySurface2
+    4300010: A02:pPlane1
+    4300012: A02:pPlane7
+    4300014: A02:pSphere3
+    4300016: xiuzi2:pCylinder7
+    4300018: pSphere6
+    4300020: A02:pPipe1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: A02:polySurface6
+    13700002: polySurface5
+    13700004: ShuiNiu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A02:polySurface6
+        weight: 1
+      - path: AAA
+        weight: 1
+      - path: AAA/OldMan_Ctrl
+        weight: 1
+      - path: AAA/OldMan_Ctrl/A02:polySurface2
+        weight: 1
+      - path: AAA/OldMan_Ctrl/A02:pPlane1
+        weight: 1
+      - path: AAA/OldMan_Ctrl/A02:pPlane7
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/A02:pPipe1
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70/joint71
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70/joint71/joint72
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70/joint71/joint72/joint73
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70/joint71/joint72/joint73/joint74
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70/joint71/joint72/joint73/joint74/joint75
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint69/joint70/joint71/joint72/joint73/joint74/joint75/joint76
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint77
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint77/joint78
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint77/joint78/joint79
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint77/joint78/joint79/joint80
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint77/joint78/joint79/joint80/joint81
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint82
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint82/joint83
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint82/joint83/joint84
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint82/joint83/joint84/joint85
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint82/joint83/joint84/joint85/joint86
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/A02:pSphere3
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/nurbsCircle8
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint50/joint51/joint52
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint53
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint53/joint54
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint53/joint54/joint55
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint57
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint57/joint58
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint57/joint58/joint59
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint57/joint58/joint59/joint60
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint61
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint61/joint62
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint61/joint62/joint63
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint61/joint62/joint63/joint64
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint65
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint65/joint66
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint65/joint66/joint67
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint96/joint47/joint48/joint49/joint65/joint66/joint67/joint68
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint101
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint101/joint102
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint101/joint102/joint103
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint104
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint104/joint105
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint104/joint105/joint106
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint104/joint105/joint106/joint107
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint108
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint108/joint109
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint108/joint109/joint110
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint108/joint109/joint110/joint111
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint112
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint112/joint113
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint112/joint113/joint114
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint112/joint113/joint114/joint115
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint116
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint116/joint117
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint116/joint117/joint118
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/joint116/joint117/joint118/joint119
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125/joint126
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125/joint126/joint127
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125/joint126/joint127/joint128
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125/joint126/joint127/joint128/joint129
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125/joint126/joint127/joint128/joint129/joint130
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/joint87/joint88/joint89/joint90/joint97/joint98/joint99/joint100/nurbsCircle11/joint120/joint121/joint122/joint123/joint124/joint125/joint126/joint127/joint128/joint129/joint130/joint131
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/nurbsCircle4
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/nurbsCircle4/ikHandle9
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/nurbsCircle5
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/nurbsCircle5/ikHandle10
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/nurbsCircle9
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/nurbsCircle10
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/pSphere6
+        weight: 1
+      - path: AAA/OldMan_Ctrl/nurbsCircle6/xiuzi2:pCylinder7
+        weight: 1
+      - path: AAA/OldMan_Ctrl/polySurface2
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL01
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL01/group9
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL01/group9/ikHandle1
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL01/group9/ikHandle2
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL02
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL02/group10
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL02/group10/ikHandle3
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL02/group10/ikHandle4
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL03
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL03/group11
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL03/group11/ikHandle7
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL03/group11/ikHandle8
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL04
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL04/group12
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL04/group12/ikHandle5
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL04/group12/ikHandle6
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint11
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint11/joint12
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint11/joint12/joint13
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint21
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint21/joint22
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint21/joint22/joint23
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint6
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint6/joint7
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint6/joint7/joint8
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint16
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint16/joint17
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint16/joint17/joint18
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint41
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint41/joint42
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint41/joint42/joint43
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint41/joint42/joint43/joint44
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint41/joint42/joint43/joint45
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/joint26/joint41/joint42/joint43/joint45/joint46
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/nurbsCircle2
+        weight: 1
+      - path: AAA/ShuiNiu_Ctrl/CR_TRL05/WeiBa
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: ShuiNiu
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

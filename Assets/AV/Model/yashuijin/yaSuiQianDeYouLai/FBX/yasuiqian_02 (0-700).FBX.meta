@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 667ce47b8f7dc4343ade2e343bf31828
+timeCreated: 1478076306
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Bone014
+    100026: Bone015
+    100028: Bone016
+    100030: Bone017
+    100032: Bone018
+    100034: Bone019
+    100036: Bone020
+    100038: Bone021
+    100040: Bone022
+    100042: Bone023
+    100044: Bone024
+    100046: Bone025
+    100048: Bone026
+    100050: Bone027
+    100052: Bone028
+    100054: Bone029
+    100056: Bone030
+    100058: Bone031
+    100060: Bone032
+    100062: Bone033
+    100064: Bone034
+    100066: Bone035
+    100068: Bone036
+    100070: Bone037
+    100072: Bone038
+    100074: Bone039
+    100076: Bone040
+    100078: Bone041
+    100080: Bone042
+    100082: Bone043
+    100084: Bone044
+    100086: Bone045
+    100088: Bone046
+    100090: Bone047
+    100092: Bone048
+    100094: Bone049
+    100096: Bone050
+    100098: Bone051
+    100100: Bone052
+    100102: Bone053
+    100104: Bone054
+    100106: Bone055
+    100108: Bone056
+    100110: Bone057
+    100112: Bone058
+    100114: Bone059
+    100116: Bone060
+    100118: Bone061
+    100120: Bone062
+    100122: Bone063
+    100124: Bone064
+    100126: Bone065
+    100128: Bone066
+    100130: Bone067
+    100132: Bone068
+    100134: Bone069
+    100136: Bone070
+    100138: Bone071
+    100140: Bone072
+    100142: Bone073
+    100144: Bone074
+    100146: Bone076
+    100148: Bone077
+    100150: Bone078
+    100152: Bone079
+    100154: Dummy001
+    100156: Dummy002
+    100158: Dummy003
+    100160: Dummy004
+    100162: Dummy005
+    100164: Dummy006
+    100166: Dummy007
+    100168: Dummy008
+    100170: hesuibi
+    100172: Point001
+    100174: Point002
+    100176: Point003
+    100178: Point004
+    100180: Point005
+    100182: Point006
+    100184: qizi
+    100186: Sphere002
+    100188: Sphere003
+    100190: Sphere007
+    100192: Sphere008
+    100194: Sphere009
+    100196: Sphere010
+    100198: Sphere011
+    100200: //RootNode
+    400000: Bone002
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Bone014
+    400026: Bone015
+    400028: Bone016
+    400030: Bone017
+    400032: Bone018
+    400034: Bone019
+    400036: Bone020
+    400038: Bone021
+    400040: Bone022
+    400042: Bone023
+    400044: Bone024
+    400046: Bone025
+    400048: Bone026
+    400050: Bone027
+    400052: Bone028
+    400054: Bone029
+    400056: Bone030
+    400058: Bone031
+    400060: Bone032
+    400062: Bone033
+    400064: Bone034
+    400066: Bone035
+    400068: Bone036
+    400070: Bone037
+    400072: Bone038
+    400074: Bone039
+    400076: Bone040
+    400078: Bone041
+    400080: Bone042
+    400082: Bone043
+    400084: Bone044
+    400086: Bone045
+    400088: Bone046
+    400090: Bone047
+    400092: Bone048
+    400094: Bone049
+    400096: Bone050
+    400098: Bone051
+    400100: Bone052
+    400102: Bone053
+    400104: Bone054
+    400106: Bone055
+    400108: Bone056
+    400110: Bone057
+    400112: Bone058
+    400114: Bone059
+    400116: Bone060
+    400118: Bone061
+    400120: Bone062
+    400122: Bone063
+    400124: Bone064
+    400126: Bone065
+    400128: Bone066
+    400130: Bone067
+    400132: Bone068
+    400134: Bone069
+    400136: Bone070
+    400138: Bone071
+    400140: Bone072
+    400142: Bone073
+    400144: Bone074
+    400146: Bone076
+    400148: Bone077
+    400150: Bone078
+    400152: Bone079
+    400154: Dummy001
+    400156: Dummy002
+    400158: Dummy003
+    400160: Dummy004
+    400162: Dummy005
+    400164: Dummy006
+    400166: Dummy007
+    400168: Dummy008
+    400170: hesuibi
+    400172: Point001
+    400174: Point002
+    400176: Point003
+    400178: Point004
+    400180: Point005
+    400182: Point006
+    400184: qizi
+    400186: Sphere002
+    400188: Sphere003
+    400190: Sphere007
+    400192: Sphere008
+    400194: Sphere009
+    400196: Sphere010
+    400198: Sphere011
+    400200: //RootNode
+    4300000: Sphere003
+    4300002: hesuibi
+    4300004: Sphere002
+    4300006: Sphere007
+    4300008: Sphere008
+    4300010: Sphere009
+    4300012: Sphere010
+    4300014: Sphere011
+    4300016: qizi
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: hesuibi
+    13700002: qizi
+    13700004: Sphere002
+    13700006: Sphere003
+    13700008: Sphere007
+    13700010: Sphere008
+    13700012: Sphere009
+    13700014: Sphere010
+    13700016: Sphere011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy004
+        weight: 1
+      - path: Dummy004/Bone002
+        weight: 1
+      - path: Dummy004/Dummy001
+        weight: 1
+      - path: Dummy004/Dummy001/Point002
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone003
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone004
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone004/Bone005
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone008
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone008/Bone009
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Dummy004/Dummy001/Point002/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Dummy004/Dummy003
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone024
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone024/Bone025
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone027
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone027/Bone028
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone027/Bone028/Bone029
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone030
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone030/Bone031
+        weight: 1
+      - path: Dummy004/Dummy003/Bone023/Bone030/Bone031/Bone032
+        weight: 1
+      - path: Dummy004/Dummy005
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone034
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone034/Bone035
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone034/Bone035/Bone036
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone037
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone037/Bone038
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone040
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone040/Bone041
+        weight: 1
+      - path: Dummy004/Dummy005/Bone033/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Dummy004/Dummy008
+        weight: 1
+      - path: Dummy004/Dummy008/Point005
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone065
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone065/Bone066
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone065/Bone066/Bone067
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone065/Bone066/Bone067/Bone068
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone069
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone069/Bone070
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone069/Bone070/Bone071
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone069/Bone070/Bone071/Bone072
+        weight: 1
+      - path: Dummy004/Dummy008/Point005/Bone073
+        weight: 1
+      - path: Dummy004/Point001
+        weight: 1
+      - path: Dummy004/Point001/Dummy002
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone013
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone015
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone015/Bone016
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone015/Bone016/Bone017
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone015/Bone016/Bone017/Bone018
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone019
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone019/Bone020
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Dummy004/Point001/Dummy002/Bone012/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: Dummy004/Point003
+        weight: 1
+      - path: Dummy004/Point003/Dummy006
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone044
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone046
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone046/Bone047
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone046/Bone047/Bone048
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone050
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone050/Bone051
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone050/Bone051/Bone052
+        weight: 1
+      - path: Dummy004/Point003/Dummy006/Bone043/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Dummy004/Point004
+        weight: 1
+      - path: Dummy004/Point004/Dummy007
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone055
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone055/Bone056
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone057
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone057/Bone058
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone057/Bone058/Bone059
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone057/Bone058/Bone059/Bone060
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone061
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone061/Bone062
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone061/Bone062/Bone063
+        weight: 1
+      - path: Dummy004/Point004/Dummy007/Bone054/Bone061/Bone062/Bone063/Bone064
+        weight: 1
+      - path: hesuibi
+        weight: 1
+      - path: Point006
+        weight: 1
+      - path: Point006/Bone074
+        weight: 1
+      - path: Point006/Bone074/Bone076
+        weight: 1
+      - path: Point006/Bone074/Bone076/Bone077
+        weight: 1
+      - path: Point006/Bone074/Bone076/Bone077/Bone078
+        weight: 1
+      - path: Point006/Bone074/Bone076/Bone077/Bone078/Bone079
+        weight: 1
+      - path: qizi
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Sphere007
+        weight: 1
+      - path: Sphere008
+        weight: 1
+      - path: Sphere009
+        weight: 1
+      - path: Sphere010
+        weight: 1
+      - path: Sphere011
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
